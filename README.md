@@ -59,31 +59,6 @@ end
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Nambunnnn&show_icons=true&count_private=true&hide_border=true&bg_color=1c1917&title_color=0891b2&text_color=ffffff&icon_color=0891b2" alt="GitHub stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nambunnnn&layout=compact&langs_count=8&hide_border=true&bg_color=1c1917&title_color=0891b2&text_color=ffffff" alt="Top languages" />
-
-<br />
-
-<img src="https://streak-stats.demolab.com/?user=Nambunnnn&hide_border=true&background=1c1917&stroke=ffffff&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff" alt="GitHub streak" />
-
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Nambunnnn&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area=true&area_color=0891b2&hide_border=true" alt="contribution graph" width="100%" />
-
-</div>
-
----
-
 ## 🏆 Trophies
 
 <div align="center">
