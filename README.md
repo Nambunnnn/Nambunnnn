@@ -47,8 +47,7 @@ end
 
 ## 🛠️ Tech Stack
 
-<div align="center">
-
+<div align="left">
 <img src="https://skillicons.dev/icons?i=lua,js,html,css,bootstrap,nodejs,cpp,cs,py,mysql,mongodb,git,vscode&perline=7" alt="languages and tools" />
 
 <br /><br />
