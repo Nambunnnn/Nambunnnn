@@ -59,32 +59,6 @@ end
 
 ---
 
-## 🏆 Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Nambunnnn&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&row=1&column=7" alt="trophies" />
-
-</div>
-
----
-
-## 📌 Featured Projects
-
-<div align="center">
-
-<!-- Replace REPO_NAME_1 and REPO_NAME_2 with your real repository names -->
-<a href="https://github.com/Nambunnnn/REPO_NAME_1">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nambunnnn&repo=REPO_NAME_1&hide_border=true&bg_color=1c1917&title_color=0891b2&text_color=ffffff&icon_color=0891b2" alt="project 1" />
-</a>
-<a href="https://github.com/Nambunnnn/REPO_NAME_2">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nambunnnn&repo=REPO_NAME_2&hide_border=true&bg_color=1c1917&title_color=0891b2&text_color=ffffff&icon_color=0891b2" alt="project 2" />
-</a>
-
-</div>
-
----
-
 ## 🤝 Let's Connect
 
 <div align="center">
