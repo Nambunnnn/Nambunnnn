@@ -1,14 +1,125 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Nambun Khaennonngaiw =============================================================================================================================================  Game Dev & Web Dev ------------------  I'm a Game Developer on Roblox and a Beginner Web Developer, I've been creating stuff on Roblox for about 3 years and be a Web Developer for about 1.5 years  * 🌍  I'm based in Thailand * 🖥️  See my portfolio at [Portfolio](http://nongsingto.pages.dev) * ✉️  You can contact me at [singto4222@gmail.com](mailto:singto4222@gmail.com) * 🧠  I'm currently learning Python, C++, C#, Java Script
+<div align="center">
 
-<p align="left"> <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" alt="C++" title="C++" width="36" height="36" /></a><a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" alt="C#" title="C#" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="36" height="36" /></a><a href="https://lua.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/lua-colored.svg" alt="Lua" title="Lua" width="36" height="36" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" alt="CSS3" title="CSS3" width="36" height="36" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" alt="Bootstrap" title="Bootstrap" width="36" height="36" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" alt="NodeJS" title="NodeJS" width="36" height="36" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" alt="MySQL" title="MySQL" width="36" height="36" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" alt="MongoDB" title="MongoDB" width="36" height="36" /></a><a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored-dark.svg" alt="Photoshop" title="Photoshop" width="36" height="36" /></a><a href="https://www.adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored-dark.svg" alt="Illustrator" title="Illustrator" width="36" height="36" /></a><a href="https://www.adobe.com/uk/products/aftereffects.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aftereffects-colored-dark.svg" alt="After Effects" title="After Effects" width="36" height="36" /></a><a href="https://www.adobe.com/uk/products/premiere.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/premierepro-colored-dark.svg" alt="Premiere Pro" title="Premiere Pro" width="36" height="36" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" alt="Figma" title="Figma" width="36" height="36" /></a><a href="https://store.arduino.cc/?gclid=Cj0KCQjw2eilBhCCARIsAG0Pf8uueBifykWcsSS4LPESeGQfxGVKJYnzV7bz471XfknQJy_1VINVWM8aAkLtEALw_wcB" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arduino-colored.svg" alt="Arduino" title="Arduino" width="36" height="36" /></a><a href="https://apple.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/macos-colored-dark.svg" alt="MacOS" title="MacOS" width="36" height="36" /></a><a href="https://www.blender.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/blender-colored.svg" alt="Blender" title="Blender" width="36" height="36" /></a> </p> 
- ### Socials  <p align="left"> <a href="https://www.github.com/Nambunnnn" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a></p>
-### Badges
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0891b2,100:1c1917&height=220&section=header&text=Nambun%20Khaennonngaiw&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Roblox%20Game%20Developer%20%7C%20Web%20Developer&descAlignY=58&descSize=18" width="100%" alt="header" />
 
-<b>My GitHub Stats</b>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0891B2&center=true&vCenter=true&width=600&lines=Hi+there!+%F0%9F%91%8B+I'm+Nambun;Roblox+Game+Developer+for+3+years;Web+Developer+for+1.5+years;Currently+learning+Python%2C+C%2B%2B%2C+C%23+%26+JavaScript" alt="Typing SVG" />
+</a>
 
-<a href="http://www.github.com/Nambunnnn"><img src="https://github-readme-stats.vercel.app/api?username=Nambunnnn&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Nambunnnn's GitHub stats" /></a>
-<a href="http://www.github.com/Nambunnnn"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Nambunnnn&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-<a href="https://github.com/Nambunnnn" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nambunnnn&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-<b>Top Repositories</b>
+<br />
 
-<div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
+<img src="https://komarev.com/ghpvc/?username=Nambunnnn&label=Profile%20views&color=0891b2&style=for-the-badge" alt="profile views" />
+<a href="http://nongsingto.pages.dev"><img src="https://img.shields.io/badge/Portfolio-nongsingto.pages.dev-0891b2?style=for-the-badge&logo=cloudflarepages&logoColor=white" alt="portfolio" /></a>
+<a href="mailto:singto4222@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-1c1917?style=for-the-badge&logo=gmail&logoColor=0891b2" alt="email" /></a>
+
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+```lua
+local Nambun = {
+	Name = "Nambun Khaennonngaiw",
+	Location = "Thailand 🇹🇭",
+	Roles = { "Roblox Game Developer", "Web Developer" },
+	Experience = {
+		Roblox = "3 years",
+		WebDev = "1.5 years",
+	},
+	Learning = { "Python", "C++", "C#", "JavaScript" },
+	Portfolio = "nongsingto.pages.dev",
+}
+
+function Nambun:Build()
+	return "cool stuff"
+end
+```
+
+- 🎮 Creating games and systems on **Roblox** for about 3 years
+- 🌐 Building websites for about 1.5 years
+- 🧠 Currently learning **Python, C++, C#, JavaScript**
+- 🌍 Based in Thailand
+- 🖥️ See my work at my [Portfolio](http://nongsingto.pages.dev)
+- ✉️ Reach me at [singto4222@gmail.com](mailto:singto4222@gmail.com)
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=lua,js,html,css,bootstrap,nodejs,cpp,cs,py,mysql,mongodb,git,vscode&perline=7" alt="languages and tools" />
+
+<br /><br />
+
+<img src="https://skillicons.dev/icons?i=figma,ps,ai,ae,pr,blender,arduino,macos&perline=8" alt="design tools" />
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Nambunnnn&show_icons=true&count_private=true&hide_border=true&bg_color=1c1917&title_color=0891b2&text_color=ffffff&icon_color=0891b2" alt="GitHub stats" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nambunnnn&layout=compact&langs_count=8&hide_border=true&bg_color=1c1917&title_color=0891b2&text_color=ffffff" alt="Top languages" />
+
+<br />
+
+<img src="https://streak-stats.demolab.com/?user=Nambunnnn&hide_border=true&background=1c1917&stroke=ffffff&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff" alt="GitHub streak" />
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Nambunnnn&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area=true&area_color=0891b2&hide_border=true" alt="contribution graph" width="100%" />
+
+</div>
+
+---
+
+## 🏆 Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Nambunnnn&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&row=1&column=7" alt="trophies" />
+
+</div>
+
+---
+
+## 📌 Featured Projects
+
+<div align="center">
+
+<!-- Replace REPO_NAME_1 and REPO_NAME_2 with your real repository names -->
+<a href="https://github.com/Nambunnnn/REPO_NAME_1">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nambunnnn&repo=REPO_NAME_1&hide_border=true&bg_color=1c1917&title_color=0891b2&text_color=ffffff&icon_color=0891b2" alt="project 1" />
+</a>
+<a href="https://github.com/Nambunnnn/REPO_NAME_2">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nambunnnn&repo=REPO_NAME_2&hide_border=true&bg_color=1c1917&title_color=0891b2&text_color=ffffff&icon_color=0891b2" alt="project 2" />
+</a>
+
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+<a href="https://www.github.com/Nambunnnn"><img src="https://img.shields.io/badge/GitHub-Nambunnnn-1c1917?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="http://nongsingto.pages.dev"><img src="https://img.shields.io/badge/Portfolio-Visit-0891b2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+<a href="mailto:singto4222@gmail.com"><img src="https://img.shields.io/badge/Gmail-Send%20Email-1c1917?style=for-the-badge&logo=gmail&logoColor=0891b2" alt="Gmail" /></a>
+
+<br /><br />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1c1917,100:0891b2&height=120&section=footer" width="100%" alt="footer" />
+
+</div>
