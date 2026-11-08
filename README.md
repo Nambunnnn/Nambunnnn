@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0891b2,100:1c1917&height=220&section=header&text=Nambun%20Khaennonngaiw&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Roblox%20Game%20Developer%20%7C%20Web%20Developer&descAlignY=58&descSize=18" width="100%" alt="header" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0891B2&center=true&vCenter=true&width=600&lines=Hi+there!+%F0%9F%91%8B+I'm+Nambun;Roblox+Game+Developer+for+3+years;Web+Developer+for+1.5+years;Currently+learning+Python%2C+C%2B%2B%2C+C%23+%26+JavaScript" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0891B2&center=true&vCenter=true&width=600&lines=Hi+there!+%F0%9F%91%8B+I'm+Singto;Roblox+Game+Developer+for+3+years;Web+Developer+for+1.5+years;Currently+learning+Python%2C+C%2B%2B%2C+C%23+%26" alt="Typing SVG" />
 </a>
 
 <br />
